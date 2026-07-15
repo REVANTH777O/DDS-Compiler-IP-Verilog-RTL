@@ -260,9 +260,7 @@ Waveform Verification
 
 # Simulation Results
 
-(Add screenshots here)
 
-Example
 
 ```
 images/
