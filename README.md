@@ -48,13 +48,12 @@ The primary objectives of this project are:
 DDS (Direct Digital Synthesis) is a digital technique used to generate periodic waveforms using digital logic rather than analog oscillators.
 
 The generated waveforms may include
-
 - Sine Wave
 - Cosine Wave
 - Triangle Wave
 - Square Wave
 - Arbitrary Waveforms
-
+From the phase we generate 
 DDS provides
 
 - High Frequency Resolution
