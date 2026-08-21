@@ -27,7 +27,6 @@ This repository is intended for:
 - Learners preparing for FPGA/RTL interviews
 
 ---
-
 # Repository Objectives
 
 The primary objectives of this project are:
